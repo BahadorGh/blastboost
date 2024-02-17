@@ -38,6 +38,4 @@ Take steps as below:
 
 ### Video of project description:
 
-1. To watch project's description video, click here > [Watch project's description](https://mega.nz/file/utRknRDL#fd8FQJiRPkONAE2yk5bU7HSaRUTPk7Tv-VAv4ZzOCQQ)
-
-2. To watch project's interaction video, click here > [Watch live project interaction](https://mega.nz/file/ToBwGZRJ#yk1_bEXX_gU7HaTZU9UeSKKEflhEpqPGfmMHKrFRs90)
+1. To watch project's description video, click here > [Watch project's demonostration video](https://www.loom.com/share/bb54692f408a48c4ada0d66565fc1315)
