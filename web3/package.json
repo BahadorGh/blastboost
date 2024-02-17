@@ -7,7 +7,12 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.2",
+    "@pythnetwork/entropy-sdk-solidity": "^1.1.0",
     "dotenv": "^16.3.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "sol-merger": "^4.4.1"
+  },
+  "scripts": {
+    "build-contracts": "sol-merger \"./contracts/*.sol\" ./build"
   }
 }

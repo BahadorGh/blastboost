@@ -3,6 +3,7 @@ import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "https://blastboost.world/",
   plugins: [react()],
   define: {
     global: "globalThis",
@@ -13,8 +14,9 @@ export default defineConfig({
       external: [
         `@safe-globalThis/safe-ethers-adapters`,
         `@safe-globalThis/safe-core-sdk`,
-        `@safe-globalThis/safe-ethers-lib`
-      ]
-    }
-  }
+        `@safe-globalThis/safe-ethers-lib`,
+        "@safe-globalThis/protocol-kit",
+      ],
+    },
+  },
 });
